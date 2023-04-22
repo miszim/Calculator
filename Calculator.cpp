@@ -2,7 +2,6 @@
 #include <string>
 
 
-
 int main() {
     std::string x;
     std::string y;
